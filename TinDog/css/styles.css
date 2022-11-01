@@ -1,0 +1,13 @@
+#title{
+    background-color: #ff4c68;
+}
+.col-lg-6 h1{
+    font-family: 'Kolker Brush', cursive;
+    font-weight: 900;
+    line-height: 0.9;
+    font-size:7rem;
+}
+.container-fluid
+{
+    padding:3% 15%;
+}
